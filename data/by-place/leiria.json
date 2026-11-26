@@ -657,18 +657,227 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T02:34Z",
+  "read_at": "2026-11-26T11:22Z",
   "by": "place.leiria@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Clubes de Leiria ‘colecionam’ medalhas na Distrital de Piscina Curta",
-   "url": "https://www.diarioleiria.pt/2026/11/25/clubes-de-leiria-colecionam-medalhas-na-distrital-de-piscina-curta/?utm_source=rss&utm_medium=rss&utm_campaign=clubes-de-leiria-colecionam-medalhas-na-distrital-de-piscina-curta",
+   "title": "FC Porto e UD Leiria defrontam-se dia 17",
+   "url": "https://www.diarioleiria.pt/2026/11/26/fc-porto-e-ud-leiria-defrontam-se-dia-17/?utm_source=rss&utm_medium=rss&utm_campaign=fc-porto-e-ud-leiria-defrontam-se-dia-17",
    "source": "Diário de Leiria",
-   "date": "2026-11-25",
-   "read_at": "2026-11-26T02:31:40Z",
+   "date": "2026-11-26",
+   "read_at": "2026-11-26T11:14:50Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "Estágios profissionais valorizam salários e facilitam acesso ao emprego",
+    "url": "https://jornaldascaldas.pt/2026/11/26/estagios-profissionais-valorizam-salarios-e-facilitam-acesso-ao-emprego/",
+    "published": "2026-11-26T11:12Z",
+    "source": "Jornal das Caldas",
+    "source_site": "https://jornaldascaldas.pt",
+    "feed": "https://jornaldascaldas.pt/feed/",
+    "read_at": "2026-11-26T11:14:54Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "FC Porto e UD Leiria defrontam-se dia 17",
+    "url": "https://www.diarioleiria.pt/2026/11/26/fc-porto-e-ud-leiria-defrontam-se-dia-17/?utm_source=rss&utm_medium=rss&utm_campaign=fc-porto-e-ud-leiria-defrontam-se-dia-17",
+    "published": "2026-11-26T11:00Z",
+    "source": "Diário de Leiria",
+    "source_site": "https://www.diarioleiria.pt",
+    "feed": "https://www.diarioleiria.pt/feed/",
+    "read_at": "2026-11-26T11:14:50Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Affidea mais preparada para deteção do cancro da mama",
+    "url": "https://gazetadascaldas.pt/tematicas/gazeta-da-saude-e-bem-estar/affidea-mais-preparada-para-detecao-do-cancro-da-mama/",
+    "published": "2026-11-26T10:40Z",
+    "source": "Gazeta das Caldas",
+    "source_site": "https://gazetadascaldas.pt",
+    "feed": "https://gazetadascaldas.pt/feed/",
+    "read_at": "2026-11-26T11:14:52Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Caldas ficou de fora  das cerimónias oficiais  do poder local",
+    "url": "https://gazetadascaldas.pt/sociedade/caldas-ficou-de-fora-das-cerimonias-oficiais-do-poder-local/",
+    "published": "2026-11-26T10:35Z",
+    "source": "Gazeta das Caldas",
+    "source_site": "https://gazetadascaldas.pt",
+    "feed": "https://gazetadascaldas.pt/feed/",
+    "read_at": "2026-11-26T11:14:52Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "TecAtlântica quer reforçar a sua presença nas Caldas",
+    "url": "https://gazetadascaldas.pt/economia/tecatlantica-quer-reforcar-a-sua-presenca-nas-caldas/",
+    "published": "2026-11-26T10:30Z",
+    "source": "Gazeta das Caldas",
+    "source_site": "https://gazetadascaldas.pt",
+    "feed": "https://gazetadascaldas.pt/feed/",
+    "read_at": "2026-11-26T11:14:52Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Anemia: “Muitas vezes, é a primeira manifestação de outras doenças”",
+    "url": "https://www.regiaodeleiria.pt/2026/11/anemia-muitas-vezes-e-a-primeira-manifestacao-de-outras-doencas/",
+    "published": "2026-11-26T10:30Z",
+    "source": "Região de Leiria",
+    "source_site": "https://www.regiaodeleiria.pt",
+    "feed": "https://www.regiaodeleiria.pt/feed/",
+    "read_at": "2026-11-26T11:15:08Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "IN.OVATE quer levar formação avançada às empresas do Oeste e Vale do Tejo",
+    "url": "https://gazetadascaldas.pt/economia/in-ovate-quer-levar-formacao-avancada-as-empresas-do-oeste-e-vale-do-tejo/",
+    "published": "2026-11-26T10:25Z",
+    "source": "Gazeta das Caldas",
+    "source_site": "https://gazetadascaldas.pt",
+    "feed": "https://gazetadascaldas.pt/feed/",
+    "read_at": "2026-11-26T11:14:52Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Caldas SC e Pimpões em destaque na Gala do Desporto",
+    "url": "https://gazetadascaldas.pt/desporto/caldas-sc-e-pimpoes-em-destaque-na-gala-do-desporto/",
+    "published": "2026-11-26T10:20Z",
+    "source": "Gazeta das Caldas",
+    "source_site": "https://gazetadascaldas.pt",
+    "feed": "https://gazetadascaldas.pt/feed/",
+    "read_at": "2026-11-26T11:14:52Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Futebol: Caldas SC fechou época 2025/26 com resultado positivo",
+    "url": "https://gazetadascaldas.pt/desporto/futebol-caldas-sc-fechou-epoca-2025-26-com-resultado-positivo/",
+    "published": "2026-11-26T10:15Z",
+    "source": "Gazeta das Caldas",
+    "source_site": "https://gazetadascaldas.pt",
+    "feed": "https://gazetadascaldas.pt/feed/",
+    "read_at": "2026-11-26T11:14:52Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Bairro dos Anjos conquista cinco lugares de pódio no ranking da Liga Laser Run",
+    "url": "https://www.diarioleiria.pt/2026/11/26/bairro-dos-anjos-conquista-cinco-lugares-de-podio-no-ranking-da-liga-laser-run/?utm_source=rss&utm_medium=rss&utm_campaign=bairro-dos-anjos-conquista-cinco-lugares-de-podio-no-ranking-da-liga-laser-run",
+    "published": "2026-11-26T10:00Z",
+    "source": "Diário de Leiria",
+    "source_site": "https://www.diarioleiria.pt",
+    "feed": "https://www.diarioleiria.pt/feed/",
+    "read_at": "2026-11-26T11:14:50Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Drones e medronho para aproximar investigação da ULO às empresas",
+    "url": "https://www.jornaldeleiria.pt/noticia/drones-e-medronho-para-aproximar-investigacao-da-ulo-as-empresas",
+    "published": "2026-11-26T10:00Z",
+    "source": "Jornal de Leiria",
+    "source_site": "https://jornaldeleiria.pt",
+    "feed": "https://jornaldeleiria.pt/rss-feed",
+    "read_at": "2026-11-26T11:14:56Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Agenda: Carminho, Martim Sousa Tavares, João Tordo e o Magusto Rock",
+    "url": "https://www.jornaldeleiria.pt/noticia/agenda-carminho-martim-sousa-tavares-joao-tordo-e-o-magusto-rock",
+    "published": "2026-11-26T10:00Z",
+    "source": "Jornal de Leiria",
+    "source_site": "https://jornaldeleiria.pt",
+    "feed": "https://jornaldeleiria.pt/rss-feed",
+    "read_at": "2026-11-26T11:14:56Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Black Friday da Acilis pretende dinamizar o comércio local",
+    "url": "https://www.diarioleiria.pt/2026/11/26/black-friday-da-acilis-pretende-dinamizar-o-comercio-local/?utm_source=rss&utm_medium=rss&utm_campaign=black-friday-da-acilis-pretende-dinamizar-o-comercio-local",
+    "published": "2026-11-26T09:30Z",
+    "source": "Diário de Leiria",
+    "source_site": "https://www.diarioleiria.pt",
+    "feed": "https://www.diarioleiria.pt/feed/",
+    "read_at": "2026-11-26T11:14:50Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Os trunfos de Leiria e Óbidos na corrida a Capital Portuguesa da Cultura 2028",
+    "url": "https://www.regiaodeleiria.pt/2026/11/os-trunfos-de-leiria-e-obidos-na-corrida-a-capital-portuguesa-da-cultura-2028/",
+    "published": "2026-11-26T09:21Z",
+    "source": "Região de Leiria",
+    "source_site": "https://www.regiaodeleiria.pt",
+    "feed": "https://www.regiaodeleiria.pt/feed/",
+    "read_at": "2026-11-26T11:15:08Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Plantação de carvalhos assinala Dia da Floresta Autóctone na Nazaré",
+    "url": "https://www.diarioleiria.pt/2026/11/26/plantacao-de-carvalhos-assinala-dia-da-floresta-autoctone-na-nazare/?utm_source=rss&utm_medium=rss&utm_campaign=plantacao-de-carvalhos-assinala-dia-da-floresta-autoctone-na-nazare",
+    "published": "2026-11-26T09:00Z",
+    "source": "Diário de Leiria",
+    "source_site": "https://www.diarioleiria.pt",
+    "feed": "https://www.diarioleiria.pt/feed/",
+    "read_at": "2026-11-26T11:14:50Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Mais de 1.300 candidaturas continuam por pagar na Marinha Grande",
+    "url": "https://www.diarioleiria.pt/2026/11/26/mais-de-1-300-candidaturas-continuam-por-pagar-na-marinha-grande/?utm_source=rss&utm_medium=rss&utm_campaign=mais-de-1-300-candidaturas-continuam-por-pagar-na-marinha-grande",
+    "published": "2026-11-26T08:30Z",
+    "source": "Diário de Leiria",
+    "source_site": "https://www.diarioleiria.pt",
+    "feed": "https://www.diarioleiria.pt/feed/",
+    "read_at": "2026-11-26T11:14:50Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Meirinhas aproveita reconstrução para reforçar segurança das habitações",
+    "url": "https://www.diarioleiria.pt/2026/11/26/meirinhas-aproveita-reconstrucao-para-reforcar-seguranca-das-habitacoes/?utm_source=rss&utm_medium=rss&utm_campaign=meirinhas-aproveita-reconstrucao-para-reforcar-seguranca-das-habitacoes",
+    "published": "2026-11-26T08:00Z",
+    "source": "Diário de Leiria",
+    "source_site": "https://www.diarioleiria.pt",
+    "feed": "https://www.diarioleiria.pt/feed/",
+    "read_at": "2026-11-26T11:14:50Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Dez anos em que Leiria avançou e ficou para trás",
+    "url": "https://www.jornaldeleiria.pt/opiniao/dez-anos-em-que-leiria-avancou-e-ficou-para-tras",
+    "published": "2026-11-26T07:55Z",
+    "source": "Jornal de Leiria",
+    "source_site": "https://jornaldeleiria.pt",
+    "feed": "https://jornaldeleiria.pt/rss-feed",
+    "read_at": "2026-11-26T11:14:56Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Dez meses depois da Kristin, escolas, museus, repartições, esquadras e quartéis  aguardam obras",
+    "url": "https://www.jornaldeleiria.pt/noticia/dez-meses-depois-da-kristin-escolas-museus-reparticoes-esquadras-e-quarteis-aguardam-obras",
+    "published": "2026-11-26T07:00Z",
+    "source": "Jornal de Leiria",
+    "source_site": "https://jornaldeleiria.pt",
+    "feed": "https://jornaldeleiria.pt/rss-feed",
+    "read_at": "2026-11-26T11:14:56Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
    {
     "title": "Restabelecida ligação na EN115",
     "url": "https://jornaldascaldas.pt/2026/11/25/restabelecida-ligacao-na-en115/",
@@ -676,7 +885,7 @@
     "source": "Jornal das Caldas",
     "source_site": "https://jornaldascaldas.pt",
     "feed": "https://jornaldascaldas.pt/feed/",
-    "read_at": "2026-11-26T02:31:44Z",
+    "read_at": "2026-11-26T11:14:54Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -687,7 +896,7 @@
     "source": "Jornal das Caldas",
     "source_site": "https://jornaldascaldas.pt",
     "feed": "https://jornaldascaldas.pt/feed/",
-    "read_at": "2026-11-26T02:31:44Z",
+    "read_at": "2026-11-26T11:14:54Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -698,40 +907,7 @@
     "source": "Jornal das Caldas",
     "source_site": "https://jornaldascaldas.pt",
     "feed": "https://jornaldascaldas.pt/feed/",
-    "read_at": "2026-11-26T02:31:44Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Câmara da Nazaré aprova orçamento de 21,2 ME para 2027",
-    "url": "https://www.diarioleiria.pt/2026/11/25/camara-da-nazare-aprova-orcamento-de-212-me-para-2027/?utm_source=rss&utm_medium=rss&utm_campaign=camara-da-nazare-aprova-orcamento-de-212-me-para-2027",
-    "published": "2026-11-25T20:30Z",
-    "source": "Diário de Leiria",
-    "source_site": "https://www.diarioleiria.pt",
-    "feed": "https://www.diarioleiria.pt/feed/",
-    "read_at": "2026-11-26T02:31:40Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Urgências sob pressão: hospitais têm 3.000 camas ocupadas",
-    "url": "https://www.diarioleiria.pt/2026/11/25/urgencias-sob-pressao-hospitais-tem-3-000-camas-ocupadas/?utm_source=rss&utm_medium=rss&utm_campaign=urgencias-sob-pressao-hospitais-tem-3-000-camas-ocupadas",
-    "published": "2026-11-25T20:00Z",
-    "source": "Diário de Leiria",
-    "source_site": "https://www.diarioleiria.pt",
-    "feed": "https://www.diarioleiria.pt/feed/",
-    "read_at": "2026-11-26T02:31:40Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Ministra apela à denúncia e à solidariedade perante a violência doméstica",
-    "url": "https://www.diarioleiria.pt/2026/11/25/ministra-apela-a-denuncia-e-a-solidariedade-perante-a-violencia-domestica/?utm_source=rss&utm_medium=rss&utm_campaign=ministra-apela-a-denuncia-e-a-solidariedade-perante-a-violencia-domestica",
-    "published": "2026-11-25T19:45Z",
-    "source": "Diário de Leiria",
-    "source_site": "https://www.diarioleiria.pt",
-    "feed": "https://www.diarioleiria.pt/feed/",
-    "read_at": "2026-11-26T02:31:40Z",
+    "read_at": "2026-11-26T11:14:54Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -742,7 +918,7 @@
     "source": "Jornal das Caldas",
     "source_site": "https://jornaldascaldas.pt",
     "feed": "https://jornaldascaldas.pt/feed/",
-    "read_at": "2026-11-26T02:31:44Z",
+    "read_at": "2026-11-26T11:14:54Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -753,41 +929,8 @@
     "source": "Jornal das Caldas",
     "source_site": "https://jornaldascaldas.pt",
     "feed": "https://jornaldascaldas.pt/feed/",
-    "read_at": "2026-11-26T02:31:44Z",
+    "read_at": "2026-11-26T11:14:54Z",
     "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Abuso sexual de crianças acontece, na maioria dos casos, dentro da família",
-    "url": "https://jornaldascaldas.pt/2026/11/25/abuso-sexual-de-criancas-acontece-na-maioria-dos-casos-dentro-da-familia/",
-    "published": "2026-11-25T19:37Z",
-    "source": "Jornal das Caldas",
-    "source_site": "https://jornaldascaldas.pt",
-    "feed": "https://jornaldascaldas.pt/feed/",
-    "read_at": "2026-11-26T02:31:44Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Subiu o preço do cabaz alimentar",
-    "url": "https://www.diarioleiria.pt/2026/11/25/subiu-o-preco-do-cabaz-alimentar/?utm_source=rss&utm_medium=rss&utm_campaign=subiu-o-preco-do-cabaz-alimentar",
-    "published": "2026-11-25T19:30Z",
-    "source": "Diário de Leiria",
-    "source_site": "https://www.diarioleiria.pt",
-    "feed": "https://www.diarioleiria.pt/feed/",
-    "read_at": "2026-11-26T02:31:40Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Clubes de Leiria ‘colecionam’ medalhas na Distrital de Piscina Curta",
-    "url": "https://www.diarioleiria.pt/2026/11/25/clubes-de-leiria-colecionam-medalhas-na-distrital-de-piscina-curta/?utm_source=rss&utm_medium=rss&utm_campaign=clubes-de-leiria-colecionam-medalhas-na-distrital-de-piscina-curta",
-    "published": "2026-11-25T19:00Z",
-    "source": "Diário de Leiria",
-    "source_site": "https://www.diarioleiria.pt",
-    "feed": "https://www.diarioleiria.pt/feed/",
-    "read_at": "2026-11-26T02:31:40Z",
-    "mentions_place": true,
     "date": "2026-11-25"
    },
    {
@@ -797,18 +940,7 @@
     "source": "Jornal de Leiria",
     "source_site": "https://jornaldeleiria.pt",
     "feed": "https://jornaldeleiria.pt/rss-feed",
-    "read_at": "2026-11-26T02:31:46Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Leiria a Capital da Cultura apresentada domingo",
-    "url": "https://www.diarioleiria.pt/2026/11/25/leiria-a-capital-da-cultura-apresentada-domingo/?utm_source=rss&utm_medium=rss&utm_campaign=leiria-a-capital-da-cultura-apresentada-domingo",
-    "published": "2026-11-25T18:30Z",
-    "source": "Diário de Leiria",
-    "source_site": "https://www.diarioleiria.pt",
-    "feed": "https://www.diarioleiria.pt/feed/",
-    "read_at": "2026-11-26T02:31:40Z",
+    "read_at": "2026-11-26T11:14:56Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -819,7 +951,7 @@
     "source": "Região de Leiria",
     "source_site": "https://www.regiaodeleiria.pt",
     "feed": "https://www.regiaodeleiria.pt/feed/",
-    "read_at": "2026-11-26T02:31:58Z",
+    "read_at": "2026-11-26T11:15:08Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -830,7 +962,7 @@
     "source": "Jornal de Leiria",
     "source_site": "https://jornaldeleiria.pt",
     "feed": "https://jornaldeleiria.pt/rss-feed",
-    "read_at": "2026-11-26T02:31:46Z",
+    "read_at": "2026-11-26T11:14:56Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -841,7 +973,7 @@
     "source": "Região de Leiria",
     "source_site": "https://www.regiaodeleiria.pt",
     "feed": "https://www.regiaodeleiria.pt/feed/",
-    "read_at": "2026-11-26T02:31:58Z",
+    "read_at": "2026-11-26T11:15:08Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -852,7 +984,7 @@
     "source": "Região de Leiria",
     "source_site": "https://www.regiaodeleiria.pt",
     "feed": "https://www.regiaodeleiria.pt/feed/",
-    "read_at": "2026-11-26T02:31:58Z",
+    "read_at": "2026-11-26T11:15:08Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -863,141 +995,9 @@
     "source": "Região de Leiria",
     "source_site": "https://www.regiaodeleiria.pt",
     "feed": "https://www.regiaodeleiria.pt/feed/",
-    "read_at": "2026-11-26T02:31:58Z",
+    "read_at": "2026-11-26T11:15:08Z",
     "mentions_place": true,
     "date": "2026-11-25"
-   },
-   {
-    "title": "Associação promove primeira Semana da Compaixão que termina dia 28",
-    "url": "https://www.jornaldeleiria.pt/noticia/associacao-promove-primeira-semana-da-compaixao-que-termina-dia-28",
-    "published": "2026-11-25T13:45Z",
-    "source": "Jornal de Leiria",
-    "source_site": "https://jornaldeleiria.pt",
-    "feed": "https://jornaldeleiria.pt/rss-feed",
-    "read_at": "2026-11-26T02:31:46Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Hoje há Death Café na Ludoteca de Leiria onde se conversas sobre a morte e a finitude",
-    "url": "https://www.jornaldeleiria.pt/noticia/hoje-ha-death-cafe-na-ludoteca-de-leiria-onde-se-conversas-sobre-a-morte-e-a-finitude",
-    "published": "2026-11-25T13:16Z",
-    "source": "Jornal de Leiria",
-    "source_site": "https://jornaldeleiria.pt",
-    "feed": "https://jornaldeleiria.pt/rss-feed",
-    "read_at": "2026-11-26T02:31:46Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Estádio de Leiria recebe escoceses do Celtic esta quinta-feira",
-    "url": "https://www.regiaodeleiria.pt/2026/11/estadio-de-leiria-recebe-escoceses-do-celtic-esta-quinta-feira/",
-    "published": "2026-11-25T12:49Z",
-    "source": "Região de Leiria",
-    "source_site": "https://www.regiaodeleiria.pt",
-    "feed": "https://www.regiaodeleiria.pt/feed/",
-    "read_at": "2026-11-26T02:31:58Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "GNR de Caldas da Rainha apreende mais um veículo com matrícula falsificada",
-    "url": "https://www.jornaldeleiria.pt/noticia/gnr-de-caldas-da-rainha-apreende-mais-um-veiculo-com-matricula-falsificada",
-    "published": "2026-11-25T12:40Z",
-    "source": "Jornal de Leiria",
-    "source_site": "https://jornaldeleiria.pt",
-    "feed": "https://jornaldeleiria.pt/rss-feed",
-    "read_at": "2026-11-26T02:31:46Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "GNR apreende mais uma viatura com matrícula falsa em Caldas da Rainha",
-    "url": "https://www.regiaodeleiria.pt/2026/11/gnr-apreende-mais-uma-viatura-com-matricula-falsa-em-caldas-da-rainha/",
-    "published": "2026-11-25T12:18Z",
-    "source": "Região de Leiria",
-    "source_site": "https://www.regiaodeleiria.pt",
-    "feed": "https://www.regiaodeleiria.pt/feed/",
-    "read_at": "2026-11-26T02:31:58Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Governo avança com expropriações de urgência para reparar o IC8 em Pombal",
-    "url": "https://www.jornaldeleiria.pt/noticia/ic8-pombal-expropriacoes-urgentes-vila-ca-reparacao-aterro",
-    "published": "2026-11-25T12:00Z",
-    "source": "Jornal de Leiria",
-    "source_site": "https://jornaldeleiria.pt",
-    "feed": "https://jornaldeleiria.pt/rss-feed",
-    "read_at": "2026-11-26T02:31:46Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Suplemento da Gazeta das Caldas ajuda Bombeiros",
-    "url": "https://gazetadascaldas.pt/sociedade/suplemento-da-gazeta-das-caldas-ajuda-bombeiros/",
-    "published": "2026-11-25T11:35Z",
-    "source": "Gazeta das Caldas",
-    "source_site": "https://gazetadascaldas.pt",
-    "feed": "https://gazetadascaldas.pt/feed/",
-    "read_at": "2026-11-26T02:31:42Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Morreu mulher retirada dos escombros em explosão de casa em São Gregório",
-    "url": "https://gazetadascaldas.pt/sociedade/morreu-mulher-retirada-dos-escombros-em-explosao-de-casa-em-sao-gregorio/",
-    "published": "2026-11-22T16:15Z",
-    "source": "Gazeta das Caldas",
-    "source_site": "https://gazetadascaldas.pt",
-    "feed": "https://gazetadascaldas.pt/feed/",
-    "read_at": "2026-11-26T02:31:42Z",
-    "mentions_place": false,
-    "date": "2026-11-22"
-   },
-   {
-    "title": "Teatro está de regresso à Associação Paradense",
-    "url": "https://gazetadascaldas.pt/sociedade/teatro-esta-de-regresso-a-associacao-paradense/",
-    "published": "2026-11-20T15:47Z",
-    "source": "Gazeta das Caldas",
-    "source_site": "https://gazetadascaldas.pt",
-    "feed": "https://gazetadascaldas.pt/feed/",
-    "read_at": "2026-11-26T02:31:42Z",
-    "mentions_place": false,
-    "date": "2026-11-20"
-   },
-   {
-    "title": "Caldas da Rainha recebe vigília pelo Dia da Memória Trans",
-    "url": "https://gazetadascaldas.pt/sociedade/caldas-da-rainha-recebe-vigilia-pelo-dia-da-memoria-trans/",
-    "published": "2026-11-20T11:53Z",
-    "source": "Gazeta das Caldas",
-    "source_site": "https://gazetadascaldas.pt",
-    "feed": "https://gazetadascaldas.pt/feed/",
-    "read_at": "2026-11-26T02:31:42Z",
-    "mentions_place": false,
-    "date": "2026-11-20"
-   },
-   {
-    "title": "Há 18 bombeiros brasileiros a vestir a farda da corporação caldense",
-    "url": "https://gazetadascaldas.pt/sociedade/ha-18-bombeiros-brasileiros-a-vestir-a-farda-da-corporacao-caldense/",
-    "published": "2026-11-19T12:30Z",
-    "source": "Gazeta das Caldas",
-    "source_site": "https://gazetadascaldas.pt",
-    "feed": "https://gazetadascaldas.pt/feed/",
-    "read_at": "2026-11-26T02:31:42Z",
-    "mentions_place": false,
-    "date": "2026-11-19"
-   },
-   {
-    "title": "Estado de prontidão é treinado diariamente e permite resposta rápida",
-    "url": "https://gazetadascaldas.pt/sociedade/estado-de-prontidao-e-treinado-diariamente-e-permite-resposta-rapida/",
-    "published": "2026-11-19T12:26Z",
-    "source": "Gazeta das Caldas",
-    "source_site": "https://gazetadascaldas.pt",
-    "feed": "https://gazetadascaldas.pt/feed/",
-    "read_at": "2026-11-26T02:31:42Z",
-    "mentions_place": false,
-    "date": "2026-11-19"
    }
   ]
  }
