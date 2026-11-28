@@ -5,7 +5,7 @@
  "kind": "city",
  "parent": "portugal",
  "status": "live",
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "by": "place.leiria@PrompTugal.dinis",
  "mandate": "PrompTugal.news Leiria: AI and technology in Leiria, the district capital of Portugal's Centro region, whose centre of gravity is the Startup Leiria incubator, the polytechnic that is becoming the Universidade de Leiria e Oeste, and an industrial economy now adding AI, and what reaches Leiria from Portugal, Europe and the world. Independent; every fact sourced.",
  "gravity": {
@@ -657,18 +657,172 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T18:38Z",
+  "read_at": "2026-11-28T07:37Z",
   "by": "place.leiria@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Benjamin Clementine com nova data para segundo concerto em Leiria",
-   "url": "https://www.regiaodeleiria.pt/2026/11/benjamin-clementine-com-concerto-em-leiria-a-22-de-abril/",
+   "title": "Leiria: Jovem detida por violência doméstica fica em prisão preventiva",
+   "url": "https://www.regiaodeleiria.pt/2026/11/leiria-jovem-detida-por-violencia-domestica-fica-em-prisao-preventiva/",
    "source": "Região de Leiria",
    "date": "2026-11-27",
-   "read_at": "2026-11-27T18:29:20Z",
+   "read_at": "2026-11-28T07:28:47Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "Gazeta das Caldas preside à Associação Portuguesa de Imprensa",
+    "url": "https://gazetadascaldas.pt/sociedade/gazeta-das-caldas-preside-a-associacao-portuguesa-de-imprensa/",
+    "published": "2026-11-27T22:54Z",
+    "source": "Gazeta das Caldas",
+    "source_site": "https://gazetadascaldas.pt",
+    "feed": "https://gazetadascaldas.pt/feed/",
+    "read_at": "2026-11-28T07:28:31Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Encontro internacional de karate nas Caldas",
+    "url": "https://jornaldascaldas.pt/2026/11/27/encontro-internacional-de-karate-nas-caldas/",
+    "published": "2026-11-27T22:27Z",
+    "source": "Jornal das Caldas",
+    "source_site": "https://jornaldascaldas.pt",
+    "feed": "https://jornaldascaldas.pt/feed/",
+    "read_at": "2026-11-28T07:28:33Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Mortes por sarampo diminuem 91% em 25 anos, mas perda do estatuto de eliminação preocupa OMS",
+    "url": "https://www.diarioleiria.pt/2026/11/27/mortes-por-sarampo-diminuem-91-em-25-anos-mas-perda-do-estatuto-de-eliminacao-preocupa-oms/?utm_source=rss&utm_medium=rss&utm_campaign=mortes-por-sarampo-diminuem-91-em-25-anos-mas-perda-do-estatuto-de-eliminacao-preocupa-oms",
+    "published": "2026-11-27T21:00Z",
+    "source": "Diário de Leiria",
+    "source_site": "https://www.diarioleiria.pt",
+    "feed": "https://www.diarioleiria.pt/feed/",
+    "read_at": "2026-11-28T07:28:29Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Paróquia quer recuperar “joia cultural, religiosa e patrimonial” de Vermoil",
+    "url": "https://www.regiaodeleiria.pt/2026/11/paroquia-quer-recuperar-joia-cultural-religiosa-e-patrimonial-de-vermoil/",
+    "published": "2026-11-27T21:00Z",
+    "source": "Região de Leiria",
+    "source_site": "https://www.regiaodeleiria.pt",
+    "feed": "https://www.regiaodeleiria.pt/feed/",
+    "read_at": "2026-11-28T07:28:47Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Mais de quatro mil empresas viram reconhecida a sua excelência",
+    "url": "https://www.diarioleiria.pt/2026/11/27/mais-de-quatro-mil-empresas-viram-reconhecida-a-sua-excelencia/?utm_source=rss&utm_medium=rss&utm_campaign=mais-de-quatro-mil-empresas-viram-reconhecida-a-sua-excelencia",
+    "published": "2026-11-27T20:30Z",
+    "source": "Diário de Leiria",
+    "source_site": "https://www.diarioleiria.pt",
+    "feed": "https://www.diarioleiria.pt/feed/",
+    "read_at": "2026-11-28T07:28:29Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "População e autarcas de Ansião e Figueiró dos Vinhos contestam pedido de prospeção mineira",
+    "url": "https://www.regiaodeleiria.pt/2026/11/populacao-e-autarcas-de-ansiao-e-figueiro-dos-vinho-contestam-pedido-de-prospecao-mineira/",
+    "published": "2026-11-27T20:22Z",
+    "source": "Região de Leiria",
+    "source_site": "https://www.regiaodeleiria.pt",
+    "feed": "https://www.regiaodeleiria.pt/feed/",
+    "read_at": "2026-11-28T07:28:47Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Professor condenado por abuso sexual está a cumprir sanção disciplinar - Ministério da Educação",
+    "url": "https://www.jornaldeleiria.pt/noticia/professor-condenado-por-abuso-sexual-esta-a-cumprir-sancao-disciplinar-ministerio-da-educacao1",
+    "published": "2026-11-27T20:13Z",
+    "source": "Jornal de Leiria",
+    "source_site": "https://jornaldeleiria.pt",
+    "feed": "https://jornaldeleiria.pt/rss-feed",
+    "read_at": "2026-11-28T07:28:36Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Ex-advogado julgado por burla na venda de apartamentos em Espinho",
+    "url": "https://www.diarioleiria.pt/2026/11/27/ex-advogado-julgado-por-burla-na-venda-de-apartamentos-em-espinho/?utm_source=rss&utm_medium=rss&utm_campaign=ex-advogado-julgado-por-burla-na-venda-de-apartamentos-em-espinho",
+    "published": "2026-11-27T20:00Z",
+    "source": "Diário de Leiria",
+    "source_site": "https://www.diarioleiria.pt",
+    "feed": "https://www.diarioleiria.pt/feed/",
+    "read_at": "2026-11-28T07:28:29Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Teatro da Rainha divulga atividades em dezembro",
+    "url": "https://jornaldascaldas.pt/2026/11/27/teatro-da-rainha-divulga-atividades-em-dezembro/",
+    "published": "2026-11-27T20:00Z",
+    "source": "Jornal das Caldas",
+    "source_site": "https://jornaldascaldas.pt",
+    "feed": "https://jornaldascaldas.pt/feed/",
+    "read_at": "2026-11-28T07:28:33Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Leiria: Jovem detida por violência doméstica fica em prisão preventiva",
+    "url": "https://www.regiaodeleiria.pt/2026/11/leiria-jovem-detida-por-violencia-domestica-fica-em-prisao-preventiva/",
+    "published": "2026-11-27T19:38Z",
+    "source": "Região de Leiria",
+    "source_site": "https://www.regiaodeleiria.pt",
+    "feed": "https://www.regiaodeleiria.pt/feed/",
+    "read_at": "2026-11-28T07:28:47Z",
+    "mentions_place": true,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Novembro de 2026 é um dos quatro mais chuvosos desde 2000",
+    "url": "https://www.diarioleiria.pt/2026/11/27/novembro-de-2026-e-um-dos-quatro-mais-chuvosos-desde-2000/?utm_source=rss&utm_medium=rss&utm_campaign=novembro-de-2026-e-um-dos-quatro-mais-chuvosos-desde-2000",
+    "published": "2026-11-27T19:30Z",
+    "source": "Diário de Leiria",
+    "source_site": "https://www.diarioleiria.pt",
+    "feed": "https://www.diarioleiria.pt/feed/",
+    "read_at": "2026-11-28T07:28:29Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "DGS reforça vacinação contra a gripe para proteger grupos vulneráveis",
+    "url": "https://www.diarioleiria.pt/2026/11/27/dgs-reforca-vacinacao-contra-a-gripe-para-proteger-grupos-vulneraveis/?utm_source=rss&utm_medium=rss&utm_campaign=dgs-reforca-vacinacao-contra-a-gripe-para-proteger-grupos-vulneraveis",
+    "published": "2026-11-27T19:01Z",
+    "source": "Diário de Leiria",
+    "source_site": "https://www.diarioleiria.pt",
+    "feed": "https://www.diarioleiria.pt/feed/",
+    "read_at": "2026-11-28T07:28:29Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Mulher de 19 anos em prisão preventiva por violência doméstica",
+    "url": "https://www.diarioleiria.pt/2026/11/27/mulher-de-19-anos-em-prisao-preventiva-por-violencia-domestica/?utm_source=rss&utm_medium=rss&utm_campaign=mulher-de-19-anos-em-prisao-preventiva-por-violencia-domestica",
+    "published": "2026-11-27T18:41Z",
+    "source": "Diário de Leiria",
+    "source_site": "https://www.diarioleiria.pt",
+    "feed": "https://www.diarioleiria.pt/feed/",
+    "read_at": "2026-11-28T07:28:29Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Ourém recusa emitir parecer sobre criação do concelho de Fátima",
+    "url": "https://www.jornaldeleiria.pt/noticia/ourem-recusa-emitir-parecer-sobre-criacao-do-concelho-de-fatima",
+    "published": "2026-11-27T18:41Z",
+    "source": "Jornal de Leiria",
+    "source_site": "https://jornaldeleiria.pt",
+    "feed": "https://jornaldeleiria.pt/rss-feed",
+    "read_at": "2026-11-28T07:28:36Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
    {
     "title": "Cadaval vai acolher Centro Nacional de Mediação e Arbitragem Fundiária",
     "url": "https://jornaldascaldas.pt/2026/11/27/cadaval-vai-acolher-centro-nacional-de-mediacao-e-arbitragem-fundiaria/",
@@ -676,29 +830,7 @@
     "source": "Jornal das Caldas",
     "source_site": "https://jornaldascaldas.pt",
     "feed": "https://jornaldascaldas.pt/feed/",
-    "read_at": "2026-11-27T18:29:04Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Quase um milhão de pessoas sofre de Doença Pulmonar Obstrutiva Crónica",
-    "url": "https://www.diarioleiria.pt/2026/11/27/quase-um-milhao-de-pessoas-sofre-de-doenca-pulmonar-obstrutiva-cronica/?utm_source=rss&utm_medium=rss&utm_campaign=quase-um-milhao-de-pessoas-sofre-de-doenca-pulmonar-obstrutiva-cronica",
-    "published": "2026-11-27T18:01Z",
-    "source": "Diário de Leiria",
-    "source_site": "https://www.diarioleiria.pt",
-    "feed": "https://www.diarioleiria.pt/feed/",
-    "read_at": "2026-11-27T18:29:00Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Preços do gasóleo e gasolina deverão descer na próxima semana",
-    "url": "https://www.diarioleiria.pt/2026/11/27/precos-do-gasoleo-e-gasolina-deverao-descer-na-proxima-semana/?utm_source=rss&utm_medium=rss&utm_campaign=precos-do-gasoleo-e-gasolina-deverao-descer-na-proxima-semana",
-    "published": "2026-11-27T17:30Z",
-    "source": "Diário de Leiria",
-    "source_site": "https://www.diarioleiria.pt",
-    "feed": "https://www.diarioleiria.pt/feed/",
-    "read_at": "2026-11-27T18:29:00Z",
+    "read_at": "2026-11-28T07:28:33Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -709,7 +841,7 @@
     "source": "Região de Leiria",
     "source_site": "https://www.regiaodeleiria.pt",
     "feed": "https://www.regiaodeleiria.pt/feed/",
-    "read_at": "2026-11-27T18:29:20Z",
+    "read_at": "2026-11-28T07:28:47Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -720,19 +852,8 @@
     "source": "Região de Leiria",
     "source_site": "https://www.regiaodeleiria.pt",
     "feed": "https://www.regiaodeleiria.pt/feed/",
-    "read_at": "2026-11-27T18:29:20Z",
+    "read_at": "2026-11-28T07:28:47Z",
     "mentions_place": true,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "ULO convida a comunidade a descobrir a ciência e os segredos do oceano",
-    "url": "https://www.diarioleiria.pt/2026/11/27/ulo-convida-a-comunidade-a-descobrir-a-ciencia-e-os-segredos-do-oceano/?utm_source=rss&utm_medium=rss&utm_campaign=ulo-convida-a-comunidade-a-descobrir-a-ciencia-e-os-segredos-do-oceano",
-    "published": "2026-11-27T17:00Z",
-    "source": "Diário de Leiria",
-    "source_site": "https://www.diarioleiria.pt",
-    "feed": "https://www.diarioleiria.pt/feed/",
-    "read_at": "2026-11-27T18:29:00Z",
-    "mentions_place": false,
     "date": "2026-11-27"
    },
    {
@@ -742,40 +863,7 @@
     "source": "Jornal de Leiria",
     "source_site": "https://jornaldeleiria.pt",
     "feed": "https://jornaldeleiria.pt/rss-feed",
-    "read_at": "2026-11-27T18:29:08Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Fiscalização na Nazaré deteta irregularidades em embarcações de pesca",
-    "url": "https://www.diarioleiria.pt/2026/11/27/fiscalizacao-na-nazare-deteta-irregularidades-em-embarcacoes-de-pesca/?utm_source=rss&utm_medium=rss&utm_campaign=fiscalizacao-na-nazare-deteta-irregularidades-em-embarcacoes-de-pesca",
-    "published": "2026-11-27T16:30Z",
-    "source": "Diário de Leiria",
-    "source_site": "https://www.diarioleiria.pt",
-    "feed": "https://www.diarioleiria.pt/feed/",
-    "read_at": "2026-11-27T18:29:00Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Prisão para dois condutores por “picanço” que matou homem em Alcobaça",
-    "url": "https://www.diarioleiria.pt/2026/11/27/prisao-para-dois-condutores-por-picanco-que-matou-homem-em-alcobaca/?utm_source=rss&utm_medium=rss&utm_campaign=prisao-para-dois-condutores-por-picanco-que-matou-homem-em-alcobaca",
-    "published": "2026-11-27T16:27Z",
-    "source": "Diário de Leiria",
-    "source_site": "https://www.diarioleiria.pt",
-    "feed": "https://www.diarioleiria.pt/feed/",
-    "read_at": "2026-11-27T18:29:00Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Mais de 2.200 figuras compõem presépio na Marinha Grande",
-    "url": "https://www.diarioleiria.pt/2026/11/27/mais-de-2-200-figuras-compoem-presepio-na-marinha-grande/?utm_source=rss&utm_medium=rss&utm_campaign=mais-de-2-200-figuras-compoem-presepio-na-marinha-grande",
-    "published": "2026-11-27T16:00Z",
-    "source": "Diário de Leiria",
-    "source_site": "https://www.diarioleiria.pt",
-    "feed": "https://www.diarioleiria.pt/feed/",
-    "read_at": "2026-11-27T18:29:00Z",
+    "read_at": "2026-11-28T07:28:36Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -786,7 +874,7 @@
     "source": "Jornal de Leiria",
     "source_site": "https://jornaldeleiria.pt",
     "feed": "https://jornaldeleiria.pt/rss-feed",
-    "read_at": "2026-11-27T18:29:08Z",
+    "read_at": "2026-11-28T07:28:36Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -797,40 +885,7 @@
     "source": "Região de Leiria",
     "source_site": "https://www.regiaodeleiria.pt",
     "feed": "https://www.regiaodeleiria.pt/feed/",
-    "read_at": "2026-11-27T18:29:20Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Atletas da Marinha Grande alcançam pódio histórico no HYROX Barcelona",
-    "url": "https://www.regiaodeleiria.pt/2026/11/atletas-da-marinha-grande-alcancam-podio-historico-no-hyrox-barcelona/",
-    "published": "2026-11-27T15:37Z",
-    "source": "Região de Leiria",
-    "source_site": "https://www.regiaodeleiria.pt",
-    "feed": "https://www.regiaodeleiria.pt/feed/",
-    "read_at": "2026-11-27T18:29:20Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Suspensa videovigilância que município e GNR acordaram o ano passado",
-    "url": "https://www.regiaodeleiria.pt/2026/11/suspensa-videovigilancia-que-municipio-e-gnr-acordaram-o-ano-passado/",
-    "published": "2026-11-27T15:29Z",
-    "source": "Região de Leiria",
-    "source_site": "https://www.regiaodeleiria.pt",
-    "feed": "https://www.regiaodeleiria.pt/feed/",
-    "read_at": "2026-11-27T18:29:20Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Alexandre Conde leva Portugal aos quartos de final do mundial de BCR",
-    "url": "https://www.regiaodeleiria.pt/2026/11/alexandre-conde-leva-portugal-aos-quartos-de-final-do-mundial-de-bcr/",
-    "published": "2026-11-27T14:51Z",
-    "source": "Região de Leiria",
-    "source_site": "https://www.regiaodeleiria.pt",
-    "feed": "https://www.regiaodeleiria.pt/feed/",
-    "read_at": "2026-11-27T18:29:20Z",
+    "read_at": "2026-11-28T07:28:47Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -841,7 +896,7 @@
     "source": "Jornal das Caldas",
     "source_site": "https://jornaldascaldas.pt",
     "feed": "https://jornaldascaldas.pt/feed/",
-    "read_at": "2026-11-27T18:29:04Z",
+    "read_at": "2026-11-28T07:28:33Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -852,7 +907,7 @@
     "source": "Jornal de Leiria",
     "source_site": "https://jornaldeleiria.pt",
     "feed": "https://jornaldeleiria.pt/rss-feed",
-    "read_at": "2026-11-27T18:29:08Z",
+    "read_at": "2026-11-28T07:28:36Z",
     "mentions_place": true,
     "date": "2026-11-27"
    },
@@ -863,7 +918,7 @@
     "source": "Jornal das Caldas",
     "source_site": "https://jornaldascaldas.pt",
     "feed": "https://jornaldascaldas.pt/feed/",
-    "read_at": "2026-11-27T18:29:04Z",
+    "read_at": "2026-11-28T07:28:33Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -874,53 +929,9 @@
     "source": "Jornal das Caldas",
     "source_site": "https://jornaldascaldas.pt",
     "feed": "https://jornaldascaldas.pt/feed/",
-    "read_at": "2026-11-27T18:29:04Z",
+    "read_at": "2026-11-28T07:28:33Z",
     "mentions_place": false,
     "date": "2026-11-27"
-   },
-   {
-    "title": "Clínica AMO muda de instalações e reforça aposta na tecnologia",
-    "url": "https://jornaldascaldas.pt/2026/11/27/clinica-amo-muda-de-instalacoes-e-reforca-aposta-na-tecnologia/",
-    "published": "2026-11-27T08:44Z",
-    "source": "Jornal das Caldas",
-    "source_site": "https://jornaldascaldas.pt",
-    "feed": "https://jornaldascaldas.pt/feed/",
-    "read_at": "2026-11-27T18:29:04Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Rua Direita. Entre o rock e o hip-hop, uma canção de intervenção para os dias que correm",
-    "url": "https://www.jornaldeleiria.pt/noticia/rua-direita-entre-o-rock-e-o-hip-hop-uma-cancao-de-intervencao-para-os-dias-que-correm",
-    "published": "2026-11-27T08:30Z",
-    "source": "Jornal de Leiria",
-    "source_site": "https://jornaldeleiria.pt",
-    "feed": "https://jornaldeleiria.pt/rss-feed",
-    "read_at": "2026-11-27T18:29:08Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Deixa-me estar calado | Uma Beauvoir em residência artística em Leiria",
-    "url": "https://www.jornaldeleiria.pt/opiniao/deixa-me-estar-calado-or-uma-beauvoir-em-residencia-artistica-em-leiria",
-    "published": "2026-11-27T07:25Z",
-    "source": "Jornal de Leiria",
-    "source_site": "https://jornaldeleiria.pt",
-    "feed": "https://jornaldeleiria.pt/rss-feed",
-    "read_at": "2026-11-27T18:29:08Z",
-    "mentions_place": true,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Pimpões conquistam 36 medalhas e lideram índice de progressão em Leiria",
-    "url": "https://jornaldascaldas.pt/2026/11/26/pimpoes-conquistam-36-medalhas-e-lideram-indice-de-progressao-em-leiria/",
-    "published": "2026-11-26T22:46Z",
-    "source": "Jornal das Caldas",
-    "source_site": "https://jornaldascaldas.pt",
-    "feed": "https://jornaldascaldas.pt/feed/",
-    "read_at": "2026-11-27T18:29:04Z",
-    "mentions_place": true,
-    "date": "2026-11-26"
    },
    {
     "title": "Affidea mais preparada para deteção do cancro da mama",
@@ -929,7 +940,7 @@
     "source": "Gazeta das Caldas",
     "source_site": "https://gazetadascaldas.pt",
     "feed": "https://gazetadascaldas.pt/feed/",
-    "read_at": "2026-11-27T18:29:02Z",
+    "read_at": "2026-11-28T07:28:31Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -940,7 +951,7 @@
     "source": "Gazeta das Caldas",
     "source_site": "https://gazetadascaldas.pt",
     "feed": "https://gazetadascaldas.pt/feed/",
-    "read_at": "2026-11-27T18:29:02Z",
+    "read_at": "2026-11-28T07:28:31Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -951,7 +962,7 @@
     "source": "Gazeta das Caldas",
     "source_site": "https://gazetadascaldas.pt",
     "feed": "https://gazetadascaldas.pt/feed/",
-    "read_at": "2026-11-27T18:29:02Z",
+    "read_at": "2026-11-28T07:28:31Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -962,7 +973,7 @@
     "source": "Gazeta das Caldas",
     "source_site": "https://gazetadascaldas.pt",
     "feed": "https://gazetadascaldas.pt/feed/",
-    "read_at": "2026-11-27T18:29:02Z",
+    "read_at": "2026-11-28T07:28:31Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -973,18 +984,7 @@
     "source": "Gazeta das Caldas",
     "source_site": "https://gazetadascaldas.pt",
     "feed": "https://gazetadascaldas.pt/feed/",
-    "read_at": "2026-11-27T18:29:02Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Futebol: Caldas SC fechou época 2025/26 com resultado positivo",
-    "url": "https://gazetadascaldas.pt/desporto/futebol-caldas-sc-fechou-epoca-2025-26-com-resultado-positivo/",
-    "published": "2026-11-26T10:15Z",
-    "source": "Gazeta das Caldas",
-    "source_site": "https://gazetadascaldas.pt",
-    "feed": "https://gazetadascaldas.pt/feed/",
-    "read_at": "2026-11-27T18:29:02Z",
+    "read_at": "2026-11-28T07:28:31Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -995,7 +995,7 @@
     "source": "Jornal de Leiria",
     "source_site": "https://jornaldeleiria.pt",
     "feed": "https://jornaldeleiria.pt/rss-feed",
-    "read_at": "2026-11-27T18:29:08Z",
+    "read_at": "2026-11-28T07:28:36Z",
     "mentions_place": false,
     "date": "2026-11-20"
    }
